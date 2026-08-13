@@ -32,10 +32,12 @@ I'm currently working with **Python, C++, Java, Angular and FastAPI**.
 
 # 📊 GitHub Stats:
 
-<a href="https://github.com/TUDONG05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUDONG05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUDONG05&layout=compact&theme=tokyonight"/>
-</a>
+<p align="center">
+  <a href="https://github.com/TUDONG05">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUDONG05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUDONG05&layout=compact&theme=tokyonight"/>
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 
