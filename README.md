@@ -33,8 +33,8 @@ I'm currently working with **Python, C++, Java, Angular and FastAPI**.
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUDONG05&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUDONG05&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TUDONG05&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TUDONG05&layout=compact&theme=tokyonight"/>
 </p>
 ### ✍️ Random Dev Quote
 
