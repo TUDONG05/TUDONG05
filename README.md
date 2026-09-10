@@ -32,6 +32,3 @@ I'm currently working with **Python, C++, Java, Angular and FastAPI**.
 
 
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
