@@ -3,7 +3,7 @@ Hi, I'm **Dong Van Tu**
 I'm an **Information Technology student** interested in **AI, Machine Learning & Software Development**.  
 I'm currently working with **Python, C++, Java, Angular and FastAPI**.
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
