@@ -1,7 +1,7 @@
 
 Hi, I'm **Dong Van Tu** 
 I'm an **Information Technology student** interested in **AI, Machine Learning & Software Development**.  
-I'm currently working with **Python, C++, Java, Angular and FastAPI**.
+
 
 # Tech Stack:
 
